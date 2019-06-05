@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Architect\'s Scale</string>
+    <string name="scale">Scale</string>
+    <string name="_1">1</string>
+    <string name="colon">:</string>
+    <string name="_10">10</string>
+    <string name="values">Values</string>
+    <string name="cm">cm</string>
+    <string name="equals">=</string>
+</resources>
